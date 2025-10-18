@@ -1,4 +1,4 @@
-# Message Buffer Kernel Module - Homework 5
+# Message Buffer Kernel Module
 
 ## Author Information
 - **Name:** Patricio Dávila Assad
